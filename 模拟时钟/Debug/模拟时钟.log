@@ -1,0 +1,14 @@
+﻿  模拟时钟.cpp
+D:\visual studio 2019 文件\模拟时钟\模拟时钟.cpp(36,9): warning C4101: “min”: 未引用的局部变量
+D:\visual studio 2019 文件\模拟时钟\模拟时钟.cpp(36,6): warning C4101: “h”: 未引用的局部变量
+D:\visual studio 2019 文件\模拟时钟\模拟时钟.cpp(385,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio 2019 文件\模拟时钟\模拟时钟.cpp(386,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio 2019 文件\模拟时钟\模拟时钟.cpp(387,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio 2019 文件\模拟时钟\模拟时钟.cpp(388,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio 2019 文件\模拟时钟\模拟时钟.cpp(411,25): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio 2019 文件\模拟时钟\模拟时钟.cpp(412,25): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio 2019 文件\模拟时钟\模拟时钟.cpp(413,25): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio 2019 文件\模拟时钟\模拟时钟.cpp(414,25): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio 2019 文件\模拟时钟\模拟时钟.cpp(415,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio 2019 文件\模拟时钟\模拟时钟.cpp(416,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  模拟时钟.vcxproj -> D:\visual studio 2019 文件\模拟时钟\Debug\模拟时钟.exe
