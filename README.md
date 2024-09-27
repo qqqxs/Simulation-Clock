@@ -5,7 +5,7 @@ This project is a graphical simulated clock developed as part of a lab at Wuhan 
 
 ## Content
 - [Features](https://github.com/qqqxs/Simulation-Clock?tab=readme-ov-file#feature)
-- [Technologies Used](https://github.com/qqqxs/Simulation-Clock?tab=readme-ov-file#technologies Used)
+- [Technologies Used](https://github.com/qqqxs/Simulation-Clock?tab=readme-ov-file#technologies-Used)
 - [Installation](https://github.com/qqqxs/Simulation-Clock?tab=readme-ov-file#installation)
 - [Useage](https://github.com/qqqxs/Simulation-Clock?tab=readme-ov-file#useage)
 
