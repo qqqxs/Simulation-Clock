@@ -38,3 +38,6 @@ This project is a graphical simulated clock developed as part of a lab at Wuhan 
 3. Observe the real-time updates in both analog and digital formats.
 
 ## Screenshots
+<p align="center">
+  <img src="display.png" alt="Simulated Clock Screenshot" width="600">
+</p>
