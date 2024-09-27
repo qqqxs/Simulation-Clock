@@ -14,6 +14,7 @@ This project is a graphical simulated clock developed as part of a lab at Wuhan 
 - [Technologies Used](https://github.com/qqqxs/Simulation-Clock?tab=readme-ov-file#technologies-Used)
 - [Installation](https://github.com/qqqxs/Simulation-Clock?tab=readme-ov-file#installation)
 - [Useage](https://github.com/qqqxs/Simulation-Clock?tab=readme-ov-file#useage)
+- [Screenshots](https://github.com/qqqxs/Simulation-Clock?tab=readme-ov-file#Screenshots)
 
 ## Features
 - **Analog Clock Dial**: Displays time with a smooth mechanical movement simulation.
