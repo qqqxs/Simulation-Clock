@@ -4,10 +4,10 @@
 This project is a graphical simulated clock developed as part of a lab at Wuhan Institute of Technology. It features both an analog and digital display of the current time and supports various features including leap years and month length adjustments. The software is built using C++ and the EasyX Graphics Library.
 
 ## Content
-- [Features](https://github.com/wzrdl/Covid-19-machine-learning?tab=readme-ov-file#introduction)
-- [Technologies Used]
-- [Installation]
-- [Useage]
+- [Features](https://github.com/qqqxs/Simulation-Clock?tab=readme-ov-file#feature)
+- [Technologies Used](https://github.com/qqqxs/Simulation-Clock?tab=readme-ov-file#technologies Used)
+- [Installation](https://github.com/qqqxs/Simulation-Clock?tab=readme-ov-file#installation)
+- [Useage](https://github.com/qqqxs/Simulation-Clock?tab=readme-ov-file#useage)
 
 ## Features
 - **Analog Clock Dial**: Displays time with a smooth mechanical movement simulation.
