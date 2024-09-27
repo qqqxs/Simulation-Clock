@@ -3,11 +3,11 @@
 ## Introduction
 This project is a graphical simulated clock developed as part of a lab at Wuhan Institute of Technology. It features both an analog and digital display of the current time and supports various features including leap years and month length adjustments. The software is built using C++ and the EasyX Graphics Library.
 
-![Contributors](https://img.shields.io/github/contributors/qqqxs/simulated-clock)
-![Forks](https://img.shields.io/github/forks/qqqxs/simulated-clock?style=social)
-![Stargazers](https://img.shields.io/github/stars/qqqxs/simulated-clock?style=social)
-![Issues](https://img.shields.io/github/issues/qqqxs/simulated-clock)
-![License](https://img.shields.io/github/license/qqqxs/simulated-clock)
+![Contributors](https://img.shields.io/github/contributors/qqqxs/Simulated-Clock)
+![Forks](https://img.shields.io/github/forks/qqqxs/Simulated-Clock?style=social)
+![Stargazers](https://img.shields.io/github/stars/qqqxs/Simulated-Clock?style=social)
+![Issues](https://img.shields.io/github/issues/qqqxs/Simulated-Clock)
+![License](https://img.shields.io/github/license/qqqxs/Simulated-Clock)
 
 ## Content
 - [Features](https://github.com/qqqxs/Simulation-Clock?tab=readme-ov-file#feature)
