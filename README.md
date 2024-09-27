@@ -5,7 +5,7 @@ This project is a graphical simulated clock developed as part of a lab at Wuhan 
 
 ![Contributors](https://img.shields.io/github/contributors/qqqxs/Simulation-Clock)
 ![Forks](https://img.shields.io/github/forks/qqqxs/Simulation-Clock?style=social)
-![Stargazers](https://img.shields.io/github/stars/qqqxs/Simulation-Clock?style=social)
+[![Stargazers](https://img.shields.io/github/stars/qqqxs/Simulation-Clock?style=social)](https://github.com/qqqxs/Simulation-Clock/stargazers)
 ![Issues](https://img.shields.io/github/issues/qqqxs/Simulation-Clock)
 ![License](https://img.shields.io/github/license/qqqxs/Simulation-Clock)
 
