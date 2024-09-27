@@ -39,5 +39,5 @@ This project is a graphical simulated clock developed as part of a lab at Wuhan 
 
 ## Screenshots
 <p align="center">
-  <img src="display.png" alt="Simulated Clock Screenshot" width="600">
+  <img src="Display.png" alt="Simulated Clock Screenshot" width="600">
 </p>
