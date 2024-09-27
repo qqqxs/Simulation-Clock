@@ -7,7 +7,7 @@ This project is a graphical simulated clock developed as part of a lab at Wuhan 
 [![Forks](https://img.shields.io/github/forks/qqqxs/Simulation-Clock?style=social)](https://github.com/qqqxs/Simulation-Clock/network/members)
 [![Stargazers](https://img.shields.io/github/stars/qqqxs/Simulation-Clock?style=social)](https://github.com/qqqxs/Simulation-Clock/stargazers)
 [![Issues](https://img.shields.io/github/issues/qqqxs/Simulation-Clock)](https://github.com/qqqxs/Simulation-Clock/issues)
-[![License](https://img.shields.io/github/license/qqqxs/Simulation-Clock)](https://github.com/qqqxs/Simulation-Clock/blob/main/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Content
 - [Features](https://github.com/qqqxs/Simulation-Clock?tab=readme-ov-file#feature)
