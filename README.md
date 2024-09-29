@@ -29,7 +29,7 @@ This project is a graphical simulated clock developed as part of a lab at Wuhan 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/qqqxs/simulated-clock.git
+   git clone https://github.com/qqqxs/Simulation-Clock.git
 2. Install the EasyX Graphics Library (if not already installed).
 3. Compile and run the code in your preferred C++ IDE or using the command line.
 
